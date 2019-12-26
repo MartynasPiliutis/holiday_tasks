@@ -31,7 +31,6 @@ namespace ConsoleApp2
                 }
                 cursorPositionY = cursorPositionX - 1;
                 cursorPositionX = cursorPositionY;
-                Console.ReadLine();
             }
             Console.ReadLine();
 
